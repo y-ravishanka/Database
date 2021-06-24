@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libraryms", "libraryms.csproj", "{E0730A5A-2DD3-4426-AEEC-01C4C3AD98DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0730A5A-2DD3-4426-AEEC-01C4C3AD98DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0730A5A-2DD3-4426-AEEC-01C4C3AD98DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0730A5A-2DD3-4426-AEEC-01C4C3AD98DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0730A5A-2DD3-4426-AEEC-01C4C3AD98DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAA93540-F1AB-4140-B603-3E8A04719A25}
+	EndGlobalSection
+EndGlobal
